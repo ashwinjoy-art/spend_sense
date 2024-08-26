@@ -1,6 +1,6 @@
-# spend_sense_expense_tracker
+# spend_sense
 
-Personal Expense Tracker
+Personal Finance Tracker
 
 ## Getting Started
 
